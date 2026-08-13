@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signal First"
+  short_description: "Return the smallest consequential answer"
+  default_prompt: "Use $signal-first to turn these findings into a quickly intelligible answer."
