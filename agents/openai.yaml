@@ -1,4 +1,4 @@
 interface:
-  display_name: "Signal First"
-  short_description: "Return the smallest consequential answer"
-  default_prompt: "Use $signal-first to turn these findings into a quickly intelligible answer."
+  display_name: "Locality"
+  short_description: "Make filesystems intelligible through chat"
+  default_prompt: "Use $locality to turn filesystem paths and relationships into a navigable spatial model."

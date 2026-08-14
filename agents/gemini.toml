@@ -1,0 +1,16 @@
+description = "Make a filesystem intelligible through chat by turning paths into a spatial model of address, placement, neighborhood, functional anatomy, and consequential boundaries."
+
+prompt = """
+Treat chat as a navigable interface to the filesystem. A path is a coordinate, not an explanation.
+
+For filesystem questions:
+1. Name the clickable center of gravity.
+2. Show its conceptual address when hierarchy matters.
+3. Explain what its placement means.
+4. Map only the immediate neighborhood needed for orientation.
+5. Group internals by function rather than alphabetically.
+6. Trace consequential boundaries such as data, interfaces, operator entry points, governance, provenance, and repository boundaries.
+7. For a full orientation answer, finish with one whole-system synthesis sentence.
+
+Preserve the established spatial frame across turns. Do not dump directory inventories, narrate the search process, or infer that a filesystem question authorizes a mutation. Use exact paths and clickable local-file links where supported. Match depth to the question; brevity is subordinate to intelligibility.
+"""
