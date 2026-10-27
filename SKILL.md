@@ -1,6 +1,7 @@
 ---
 name: locality
 description: Make a filesystem intelligible through chat. Use when locating a file or subsystem, explaining what surrounds it, navigating a repository, relating paths to system roles, tracing filesystem boundaries, or reporting filesystem changes. Turns paths into a spatial mental model with a center of gravity, conceptual address, functional neighborhood, consequential boundaries, and clickable navigation handles.
+license: MIT
 ---
 
 # Locality
